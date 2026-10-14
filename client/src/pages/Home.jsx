@@ -255,35 +255,35 @@ export default function Home() {
 
   const teamMembers = [
     {
-      name: 'Aldrin Deral',
-      role: 'Project Lead & Architecture',
+      name: 'Aldrin Deral A',
+      role: 'Project Architecture',
       initials: 'AD',
       gradient: 'from-blue-600 to-indigo-600',
-      badge: 'Team Lead',
+      badge: 'Architecture',
     },
     {
-      name: 'Akash Durai',
+      name: 'Akash Durai C',
       role: 'Frontend UI/UX Design',
       initials: 'AK',
       gradient: 'from-indigo-600 to-violet-600',
       badge: 'Frontend',
     },
     {
-      name: 'Devandiran',
+      name: 'Devendiran R',
       role: 'Backend API & Database',
       initials: 'DV',
       gradient: 'from-violet-600 to-purple-600',
       badge: 'Backend & DB',
     },
     {
-      name: 'Deepak Kumar',
+      name: 'Deepak Kumar I',
       role: 'WebRTC Video & Media Services',
       initials: 'DK',
       gradient: 'from-emerald-600 to-teal-600',
       badge: 'WebRTC',
     },
     {
-      name: 'Dharesh',
+      name: 'Dharesh B',
       role: 'Socket.IO & Real-Time Sync',
       initials: 'DH',
       gradient: 'from-amber-600 to-orange-600',
